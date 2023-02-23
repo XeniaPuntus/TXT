@@ -1,0 +1,4 @@
+name - Puntus Kseniya
+age - 25
+pets - 1
+future salary - 100000000000000000000000
